@@ -13,9 +13,11 @@ I am an MCA student and AI/ML enthusiast, building practical skills through hand
 - Excel
 - Power BI & DAX
 - Tableau
-- Machine Learning
 - Data Analysis & EDA
 - Git & GitHub
+- machine learning association
+- machine learning algorithum
+- NLP
 
 ## 📊 Data Analytics
 
