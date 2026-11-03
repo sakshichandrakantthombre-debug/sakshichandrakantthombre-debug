@@ -1,8 +1,8 @@
 Hi, I'm Sakshi 👋
 
-### Aspiring Data Analyst | AI/ML Enthusiast
+Aspiring AI Engineer | MCA Pursuingt
 
-I am an MCA student and AI/ML enthusiast, building practical skills through hands-on projects and data analysis.
+I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI. I enjoy building practical projects and continuously improving my technical skills.
 
 ## 🛠️ Skills
 
@@ -18,6 +18,34 @@ I am an MCA student and AI/ML enthusiast, building practical skills through hand
 - machine learning association
 - machine learning algorithum
 - NLP
+
+- Programming: Python, SQL
+
+Machine Learning: Scikit-learn, Model Evaluation
+
+Deep Learning: ANN, CNN Fundamentals
+
+Computer Vision: YOLO, Object Detection, Roboflow
+
+Generative AI: LLMs, RAG (Retrieval-Augmented Generation)
+
+Data Analytics: Power BI, Pandas, NumPy, Matplotlib
+
+Tools: Git, GitHub, Jupyter Notebook, Google Colab, VS Code
+
+
+🚀 AI & ML Projects
+
+RoadVision AI — Road object detection application
+
+Construction Helmet Detection — YOLO-based object detection
+
+Car Object Detection — Computer vision project
+
+Customer Churn Prediction — Machine learning classification
+
+RAG Application — Exploring document-based question answering with LLMs
+
 
 ## 📊 Data Analytics
 
@@ -47,6 +75,14 @@ I am an MCA student and AI/ML enthusiast, building practical skills through hand
 
 ## 📚 Currently Learning
 
+AI Engineering
+
+Generative AI and LLM applications
+
+Model deployment and AI application development
+
+🎯 Career Goal
+
 - Advanced Python
 - Pandas & NumPy
 - SQL
@@ -57,6 +93,7 @@ I am an MCA student and AI/ML enthusiast, building practical skills through hand
 ## 🎯 Career Goal
 
 To start my career in Data Analytics / AI & ML and solve real-world problems using data.
+o build practical AI solutions and grow as an AI Engineer.
 
 ## 📫 Connect With Me
 
